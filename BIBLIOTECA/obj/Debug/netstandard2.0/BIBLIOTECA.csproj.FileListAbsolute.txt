@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\bin\Debug\netstandard2.0\BIBLIOTECA.deps.json
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\bin\Debug\netstandard2.0\BIBLIOTECA.dll
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\bin\Debug\netstandard2.0\BIBLIOTECA.pdb
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\obj\Debug\netstandard2.0\BIBLIOTECA.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\obj\Debug\netstandard2.0\BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\obj\Debug\netstandard2.0\BIBLIOTECA.AssemblyInfo.cs
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\obj\Debug\netstandard2.0\BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\obj\Debug\netstandard2.0\BIBLIOTECA.dll
+C:\Users\usuario\Documents\2DO_SEMESTRE\PROG_VIS_4101\2DO PARCIAL\BIBLIOTECA\obj\Debug\netstandard2.0\BIBLIOTECA.pdb
